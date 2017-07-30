@@ -1,0 +1,4 @@
+﻿/ZooKeeperAsync.Tests/Debug
+/ZooKeeperAsync.Tests/.vs
+*.vcxproj.user
+*.vcxproj.filters
